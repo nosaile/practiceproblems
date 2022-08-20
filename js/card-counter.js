@@ -25,8 +25,8 @@ function cc(cards) {
         console.log(count + " Bet")
         return count + " Bet";
     } else {
-        console.log(count + " Bet")
-        return count + " Bet";
+        console.log(count + " Hold")
+        return count + " Hold";
     }
 }
 
